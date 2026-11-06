@@ -1,0 +1,3197 @@
+[
+  {
+    "word": "peso",
+    "pos": "noun",
+    "def": "peso"
+  },
+  {
+    "word": "gobierno",
+    "pos": "noun",
+    "def": "government."
+  },
+  {
+    "word": "amigo",
+    "pos": "noun",
+    "def": "friend"
+  },
+  {
+    "word": "familia",
+    "pos": "noun",
+    "def": "family"
+  },
+  {
+    "word": "burro",
+    "pos": "noun",
+    "def": "donkey."
+  },
+  {
+    "word": "ni",
+    "pos": "det",
+    "def": "this."
+  },
+  {
+    "word": "ta",
+    "pos": "pron",
+    "def": "second person; you (singular)"
+  },
+  {
+    "word": "libro",
+    "pos": "noun",
+    "def": "book"
+  },
+  {
+    "word": "manzana",
+    "pos": "noun",
+    "def": "apple."
+  },
+  {
+    "word": "ne",
+    "pos": "det",
+    "def": "that."
+  },
+  {
+    "word": "na",
+    "pos": "pron",
+    "def": "first person; I"
+  },
+  {
+    "word": "ce",
+    "pos": "num",
+    "def": "one."
+  },
+  {
+    "word": "estado",
+    "pos": "noun",
+    "def": "state"
+  },
+  {
+    "word": "ax",
+    "pos": "adv",
+    "def": "not"
+  },
+  {
+    "word": "cafe",
+    "pos": "noun",
+    "def": "coffee"
+  },
+  {
+    "word": "pero",
+    "pos": "conj",
+    "def": "but, rather"
+  },
+  {
+    "word": "marzo",
+    "pos": "noun",
+    "def": "March"
+  },
+  {
+    "word": "más",
+    "pos": "noun",
+    "def": "more"
+  },
+  {
+    "word": "oztotl",
+    "pos": "noun",
+    "def": "obsolete spelling of ostotl"
+  },
+  {
+    "word": "eztli",
+    "pos": "noun",
+    "def": "obsolete spelling of estli"
+  },
+  {
+    "word": "milli",
+    "pos": "noun",
+    "def": "Cultivated field; milpa."
+  },
+  {
+    "word": "mesa",
+    "pos": "noun",
+    "def": "table"
+  },
+  {
+    "word": "hora",
+    "pos": "noun",
+    "def": "hour."
+  },
+  {
+    "word": "noha",
+    "pos": "adv",
+    "def": "still"
+  },
+  {
+    "word": "puerta",
+    "pos": "noun",
+    "def": "door"
+  },
+  {
+    "word": "pampa",
+    "pos": "conj",
+    "def": "because"
+  },
+  {
+    "word": "achi",
+    "pos": "det",
+    "def": "a little."
+  },
+  {
+    "word": "calendario",
+    "pos": "noun",
+    "def": "calendar"
+  },
+  {
+    "word": "enero",
+    "pos": "noun",
+    "def": "January"
+  },
+  {
+    "word": "abril",
+    "pos": "noun",
+    "def": "April"
+  },
+  {
+    "word": "mayo",
+    "pos": "noun",
+    "def": "May"
+  },
+  {
+    "word": "agosto",
+    "pos": "noun",
+    "def": "August"
+  },
+  {
+    "word": "zampa",
+    "pos": "adv",
+    "def": "again"
+  },
+  {
+    "word": "chilli",
+    "pos": "noun",
+    "def": "chili pepper."
+  },
+  {
+    "word": "ya",
+    "pos": "pron",
+    "def": "third person; he, she"
+  },
+  {
+    "word": "chocolatl",
+    "pos": "noun",
+    "def": "chocolate"
+  },
+  {
+    "word": "milpa",
+    "pos": "noun",
+    "def": "cornfield."
+  },
+  {
+    "word": "ama",
+    "pos": "adv",
+    "def": "now"
+  },
+  {
+    "word": "julio",
+    "pos": "noun",
+    "def": "July"
+  },
+  {
+    "word": "febrero",
+    "pos": "noun",
+    "def": "February"
+  },
+  {
+    "word": "junio",
+    "pos": "noun",
+    "def": "June"
+  },
+  {
+    "word": "septiembre",
+    "pos": "noun",
+    "def": "September"
+  },
+  {
+    "word": "octubre",
+    "pos": "noun",
+    "def": "October"
+  },
+  {
+    "word": "noviembre",
+    "pos": "noun",
+    "def": "November"
+  },
+  {
+    "word": "diciembre",
+    "pos": "noun",
+    "def": "December"
+  },
+  {
+    "word": "queja",
+    "pos": "adv",
+    "def": "alternative spelling of queha (“how?”)"
+  },
+  {
+    "word": "quema",
+    "pos": "adv",
+    "def": "when?"
+  },
+  {
+    "word": "quena",
+    "pos": "particle",
+    "def": "yes, positive response."
+  },
+  {
+    "word": "tamalli",
+    "pos": "noun",
+    "def": "tamale"
+  },
+  {
+    "word": "hasta",
+    "pos": "prep",
+    "def": "until"
+  },
+  {
+    "word": "taza",
+    "pos": "noun",
+    "def": "cup."
+  },
+  {
+    "word": "cali",
+    "pos": "noun",
+    "def": "alternative spelling of calli (“house”)"
+  },
+  {
+    "word": "eli",
+    "pos": "verb",
+    "def": "to be."
+  },
+  {
+    "word": "tlen",
+    "pos": "adv",
+    "def": "what"
+  },
+  {
+    "word": "ciento",
+    "pos": "num",
+    "def": "hundred."
+  },
+  {
+    "word": "lugar",
+    "pos": "noun",
+    "def": "place"
+  },
+  {
+    "word": "escuela",
+    "pos": "noun",
+    "def": "school"
+  },
+  {
+    "word": "machete",
+    "pos": "noun",
+    "def": "machete."
+  },
+  {
+    "word": "calli",
+    "pos": "noun",
+    "def": "house."
+  },
+  {
+    "word": "cuitlatl",
+    "pos": "noun",
+    "def": "excrement, feces."
+  },
+  {
+    "word": "soldado",
+    "pos": "noun",
+    "def": "soldier"
+  },
+  {
+    "word": "ima",
+    "pos": "noun",
+    "def": "third-person singular possessed form of mayitl (his/her/its hand)"
+  },
+  {
+    "word": "chichi",
+    "pos": "noun",
+    "def": "dog"
+  },
+  {
+    "word": "carro",
+    "pos": "noun",
+    "def": "car."
+  },
+  {
+    "word": "mati",
+    "pos": "verb",
+    "def": "to know"
+  },
+  {
+    "word": "torre",
+    "pos": "noun",
+    "def": "tower."
+  },
+  {
+    "word": "aya",
+    "pos": "adv",
+    "def": "not yet"
+  },
+  {
+    "word": "tepetl",
+    "pos": "noun",
+    "def": "mountain"
+  },
+  {
+    "word": "taha",
+    "pos": "pron",
+    "def": "second person; you (singular)"
+  },
+  {
+    "word": "cualli",
+    "pos": "adj",
+    "def": "good."
+  },
+  {
+    "word": "tlaxcalli",
+    "pos": "noun",
+    "def": "tortilla."
+  },
+  {
+    "word": "amatl",
+    "pos": "noun",
+    "def": "paper."
+  },
+  {
+    "word": "tomatl",
+    "pos": "noun",
+    "def": "tomato"
+  },
+  {
+    "word": "cuahuitl",
+    "pos": "noun",
+    "def": "obsolete spelling of kuawitl"
+  },
+  {
+    "word": "huacax",
+    "pos": "noun",
+    "def": "cow"
+  },
+  {
+    "word": "tecuani",
+    "pos": "noun",
+    "def": "lion."
+  },
+  {
+    "word": "altepetl",
+    "pos": "noun",
+    "def": "altepetl, city, town."
+  },
+  {
+    "word": "tetl",
+    "pos": "noun",
+    "def": "rock"
+  },
+  {
+    "word": "miztli",
+    "pos": "noun",
+    "def": "obsolete spelling of mistli"
+  },
+  {
+    "word": "acatl",
+    "pos": "noun",
+    "def": "obsolete spelling of akatl"
+  },
+  {
+    "word": "atl",
+    "pos": "noun",
+    "def": "water"
+  },
+  {
+    "word": "miqui",
+    "pos": "verb",
+    "def": "to die."
+  },
+  {
+    "word": "zan",
+    "pos": "adv",
+    "def": "Only; merely; just; but."
+  },
+  {
+    "word": "zoquitl",
+    "pos": "noun",
+    "def": "mud"
+  },
+  {
+    "word": "tototl",
+    "pos": "noun",
+    "def": "bird"
+  },
+  {
+    "word": "cihuatl",
+    "pos": "noun",
+    "def": "obsolete spelling of siwatl"
+  },
+  {
+    "word": "tlahtolli",
+    "pos": "noun",
+    "def": "word. language."
+  },
+  {
+    "word": "pahtli",
+    "pos": "noun",
+    "def": "medicine."
+  },
+  {
+    "word": "xochitl",
+    "pos": "noun",
+    "def": "flower"
+  },
+  {
+    "word": "poctli",
+    "pos": "noun",
+    "def": "smoke"
+  },
+  {
+    "word": "tezcatl",
+    "pos": "noun",
+    "def": "mirror."
+  },
+  {
+    "word": "tepoztli",
+    "pos": "noun",
+    "def": "metal"
+  },
+  {
+    "word": "etl",
+    "pos": "noun",
+    "def": "bean."
+  },
+  {
+    "word": "metztli",
+    "pos": "noun",
+    "def": "moon"
+  },
+  {
+    "word": "izhuatl",
+    "pos": "noun",
+    "def": "leaf."
+  },
+  {
+    "word": "omitl",
+    "pos": "noun",
+    "def": "bone."
+  },
+  {
+    "word": "papalotl",
+    "pos": "noun",
+    "def": "butterfly."
+  },
+  {
+    "word": "xihuitl",
+    "pos": "noun",
+    "def": "grass"
+  },
+  {
+    "word": "ayotl",
+    "pos": "noun",
+    "def": "turtle."
+  },
+  {
+    "word": "huehue",
+    "pos": "noun",
+    "def": "husband."
+  },
+  {
+    "word": "cetl",
+    "pos": "noun",
+    "def": "ice."
+  },
+  {
+    "word": "michi",
+    "pos": "noun",
+    "def": "fish."
+  },
+  {
+    "word": "coyotl",
+    "pos": "noun",
+    "def": "obsolete spelling of koyotl"
+  },
+  {
+    "word": "matzahtli",
+    "pos": "noun",
+    "def": "pineapple."
+  },
+  {
+    "word": "atemitl",
+    "pos": "noun",
+    "def": "river."
+  },
+  {
+    "word": "mizto",
+    "pos": "noun",
+    "def": "cat"
+  },
+  {
+    "word": "cohuatl",
+    "pos": "noun",
+    "def": "obsolete spelling of kowatl"
+  },
+  {
+    "word": "tonalli",
+    "pos": "noun",
+    "def": "a day"
+  },
+  {
+    "word": "iztatl",
+    "pos": "noun",
+    "def": "salt."
+  },
+  {
+    "word": "nochi",
+    "pos": "det",
+    "def": "all."
+  },
+  {
+    "word": "ohuatl",
+    "pos": "noun",
+    "def": "sugarcane."
+  },
+  {
+    "word": "oquichtli",
+    "pos": "noun",
+    "def": "man."
+  },
+  {
+    "word": "expa",
+    "pos": "adj",
+    "def": "third."
+  },
+  {
+    "word": "conetl",
+    "pos": "noun",
+    "def": "obsolete spelling of konetl"
+  },
+  {
+    "word": "nane",
+    "pos": "noun",
+    "def": "Miss"
+  },
+  {
+    "word": "icone",
+    "pos": "noun",
+    "def": "third-person singular possessed form of conetl (his/her/its child)"
+  },
+  {
+    "word": "médico",
+    "pos": "noun",
+    "def": "doctor"
+  },
+  {
+    "word": "aqui",
+    "pos": "verb",
+    "def": "to be (negative)."
+  },
+  {
+    "word": "tecciztli",
+    "pos": "noun",
+    "def": "egg"
+  },
+  {
+    "word": "tlacatl",
+    "pos": "noun",
+    "def": "man."
+  },
+  {
+    "word": "pochotl",
+    "pos": "noun",
+    "def": "Kapok tree, silk-cotton tree (Ceiba pentandra)"
+  },
+  {
+    "word": "yancuic",
+    "pos": "adj",
+    "def": "new."
+  },
+  {
+    "word": "tocatl",
+    "pos": "noun",
+    "def": "obsolete spelling of tokatl"
+  },
+  {
+    "word": "tzicatl",
+    "pos": "noun",
+    "def": "ant."
+  },
+  {
+    "word": "chivo",
+    "pos": "noun",
+    "def": "goat"
+  },
+  {
+    "word": "campa",
+    "pos": "adv",
+    "def": "where"
+  },
+  {
+    "word": "tate",
+    "pos": "noun",
+    "def": "sir."
+  },
+  {
+    "word": "tonali",
+    "pos": "noun",
+    "def": "alternative spelling of tonalli"
+  },
+  {
+    "word": "pialli",
+    "pos": "intj",
+    "def": "hello (greeting)."
+  },
+  {
+    "word": "mayana",
+    "pos": "adj",
+    "def": "hungry"
+  },
+  {
+    "word": "zoquiyo",
+    "pos": "adj",
+    "def": "dirty."
+  },
+  {
+    "word": "tlacualli",
+    "pos": "noun",
+    "def": "food."
+  },
+  {
+    "word": "coto",
+    "pos": "noun",
+    "def": "shirt."
+  },
+  {
+    "word": "huetzi",
+    "pos": "verb",
+    "def": "to fall."
+  },
+  {
+    "word": "xonacatl",
+    "pos": "noun",
+    "def": "onion."
+  },
+  {
+    "word": "nochtli",
+    "pos": "noun",
+    "def": "prickly pear"
+  },
+  {
+    "word": "nacatl",
+    "pos": "noun",
+    "def": "obsolete spelling of nakatl"
+  },
+  {
+    "word": "moztla",
+    "pos": "adv",
+    "def": "tomorrow"
+  },
+  {
+    "word": "paquiliztli",
+    "pos": "noun",
+    "def": "joy"
+  },
+  {
+    "word": "ompa",
+    "pos": "adj",
+    "def": "second."
+  },
+  {
+    "word": "siya",
+    "pos": "noun",
+    "def": "chair"
+  },
+  {
+    "word": "toca",
+    "pos": "noun",
+    "def": "name"
+  },
+  {
+    "word": "tzompilihui",
+    "pos": "verb",
+    "def": "to have a cold."
+  },
+  {
+    "word": "ilhuitl",
+    "pos": "noun",
+    "def": "fiesta, festival."
+  },
+  {
+    "word": "naha",
+    "pos": "pron",
+    "def": "first person; I"
+  },
+  {
+    "word": "tomi",
+    "pos": "noun",
+    "def": "money."
+  },
+  {
+    "word": "chancaca",
+    "pos": "noun",
+    "def": "panela (solid piece of unrefined sugar)."
+  },
+  {
+    "word": "nica",
+    "pos": "adv",
+    "def": "here"
+  },
+  {
+    "word": "-li",
+    "pos": "suffix",
+    "def": "a suffix that makes nouns."
+  },
+  {
+    "word": "ica",
+    "pos": "adv",
+    "def": "with"
+  },
+  {
+    "word": "amelli",
+    "pos": "noun",
+    "def": "well."
+  },
+  {
+    "word": "ome",
+    "pos": "num",
+    "def": "two"
+  },
+  {
+    "word": "eyi",
+    "pos": "num",
+    "def": "three"
+  },
+  {
+    "word": "nahui",
+    "pos": "num",
+    "def": "four"
+  },
+  {
+    "word": "macuilli",
+    "pos": "num",
+    "def": "five."
+  },
+  {
+    "word": "neca",
+    "pos": "adv",
+    "def": "there"
+  },
+  {
+    "word": "nepa",
+    "pos": "adv",
+    "def": "there"
+  },
+  {
+    "word": "huitztli",
+    "pos": "noun",
+    "def": "thorn."
+  },
+  {
+    "word": "ehua",
+    "pos": "verb",
+    "def": "to be from."
+  },
+  {
+    "word": "toza",
+    "pos": "noun",
+    "def": "gopher"
+  },
+  {
+    "word": "zacatl",
+    "pos": "noun",
+    "def": "straw"
+  },
+  {
+    "word": "ahuacatl",
+    "pos": "noun",
+    "def": "obsolete spelling of awakatl"
+  },
+  {
+    "word": "onca",
+    "pos": "verb",
+    "def": "there is."
+  },
+  {
+    "word": "ahuacacuahuitl",
+    "pos": "noun",
+    "def": "avocado tree."
+  },
+  {
+    "word": "miquiliztli",
+    "pos": "noun",
+    "def": "death."
+  },
+  {
+    "word": "tlalli",
+    "pos": "noun",
+    "def": "earth"
+  },
+  {
+    "word": "olotl",
+    "pos": "noun",
+    "def": "corncob."
+  },
+  {
+    "word": "comalli",
+    "pos": "noun",
+    "def": "obsolete spelling of komalli"
+  },
+  {
+    "word": "mecatl",
+    "pos": "noun",
+    "def": "rope, cord."
+  },
+  {
+    "word": "chapolin",
+    "pos": "noun",
+    "def": "grasshopper."
+  },
+  {
+    "word": "elotl",
+    "pos": "noun",
+    "def": "A fresh ear of corn."
+  },
+  {
+    "word": "hueyatl",
+    "pos": "noun",
+    "def": "river"
+  },
+  {
+    "word": "kalli",
+    "pos": "noun",
+    "def": "alternative spelling of calli, house"
+  },
+  {
+    "word": "lechi",
+    "pos": "noun",
+    "def": "milk"
+  },
+  {
+    "word": "tonatih",
+    "pos": "noun",
+    "def": "sun."
+  },
+  {
+    "word": "xolotl",
+    "pos": "verb",
+    "def": "to be afraid."
+  },
+  {
+    "word": "tici",
+    "pos": "verb",
+    "def": "to grind."
+  },
+  {
+    "word": "yeca",
+    "pos": "adv",
+    "def": "then"
+  },
+  {
+    "word": "hueyi",
+    "pos": "adj",
+    "def": "big, great."
+  },
+  {
+    "word": "hueyi atl",
+    "pos": "noun",
+    "def": "sea, ocean"
+  },
+  {
+    "word": "chicome",
+    "pos": "num",
+    "def": "seven."
+  },
+  {
+    "word": "chicueyi",
+    "pos": "num",
+    "def": "eight."
+  },
+  {
+    "word": "chicuace",
+    "pos": "num",
+    "def": "six."
+  },
+  {
+    "word": "mahtlactli",
+    "pos": "num",
+    "def": "ten."
+  },
+  {
+    "word": "caxtolli",
+    "pos": "num",
+    "def": "fifteen."
+  },
+  {
+    "word": "xocotl",
+    "pos": "noun",
+    "def": "A fruit"
+  },
+  {
+    "word": "tlahuilli",
+    "pos": "noun",
+    "def": "light."
+  },
+  {
+    "word": "palach",
+    "pos": "noun",
+    "def": "turkey."
+  },
+  {
+    "word": "icha",
+    "pos": "noun",
+    "def": "his, her, its home."
+  },
+  {
+    "word": "cochi",
+    "pos": "verb",
+    "def": "to sleep."
+  },
+  {
+    "word": "ayohtli",
+    "pos": "noun",
+    "def": "gourd, squash."
+  },
+  {
+    "word": "tlazolli",
+    "pos": "noun",
+    "def": "trash."
+  },
+  {
+    "word": "amatlahcuilolli",
+    "pos": "noun",
+    "def": "A letter."
+  },
+  {
+    "word": "cartilla",
+    "pos": "noun",
+    "def": "card, book"
+  },
+  {
+    "word": "ipan",
+    "pos": "prep",
+    "def": "in."
+  },
+  {
+    "word": "mapachin",
+    "pos": "noun",
+    "def": "raccoon"
+  },
+  {
+    "word": "koyochichi",
+    "pos": "noun",
+    "def": "coyote"
+  },
+  {
+    "word": "camohtli",
+    "pos": "noun",
+    "def": "sweet potato."
+  },
+  {
+    "word": "cocoliztli",
+    "pos": "noun",
+    "def": "sickness."
+  },
+  {
+    "word": "tomin",
+    "pos": "noun",
+    "def": "money."
+  },
+  {
+    "word": "yaha",
+    "pos": "pron",
+    "def": "third person; he, she"
+  },
+  {
+    "word": "piyo",
+    "pos": "noun",
+    "def": "chicken, hen"
+  },
+  {
+    "word": "coyochichi",
+    "pos": "noun",
+    "def": "obsolete spelling of koyochichi"
+  },
+  {
+    "word": "lalax",
+    "pos": "noun",
+    "def": "Chiconamel spelling of alaxox"
+  },
+  {
+    "word": "koyotl",
+    "pos": "noun",
+    "def": "foreigner."
+  },
+  {
+    "word": "kolotl",
+    "pos": "noun",
+    "def": "scorpion"
+  },
+  {
+    "word": "istatl",
+    "pos": "noun",
+    "def": "alternative spelling of iztatl (“salt”)"
+  },
+  {
+    "word": "pezohtli",
+    "pos": "noun",
+    "def": "badger, coati."
+  },
+  {
+    "word": "mistli",
+    "pos": "noun",
+    "def": "Cat"
+  },
+  {
+    "word": "xokotl",
+    "pos": "noun",
+    "def": "plum"
+  },
+  {
+    "word": "alaxox",
+    "pos": "noun",
+    "def": "orange"
+  },
+  {
+    "word": "kowatl",
+    "pos": "noun",
+    "def": "snake"
+  },
+  {
+    "word": "kuawitl",
+    "pos": "noun",
+    "def": "tree"
+  },
+  {
+    "word": "kuapelechin",
+    "pos": "noun",
+    "def": "rooster"
+  },
+  {
+    "word": "tzotzo",
+    "pos": "noun",
+    "def": "bat"
+  },
+  {
+    "word": "yoyomitl",
+    "pos": "noun",
+    "def": "clothing."
+  },
+  {
+    "word": "Mexko",
+    "pos": "name",
+    "def": "Mexico (a country in North America, located south of the United States, and northwest of Guatemala and Belize from Central America)"
+  },
+  {
+    "word": "chalchokotl",
+    "pos": "noun",
+    "def": "guava"
+  },
+  {
+    "word": "kuaxilotl",
+    "pos": "noun",
+    "def": "banana."
+  },
+  {
+    "word": "ichpocatl",
+    "pos": "noun",
+    "def": "young woman."
+  },
+  {
+    "word": "telpocatl",
+    "pos": "noun",
+    "def": "obsolete spelling of telpokatl"
+  },
+  {
+    "word": "ostotl",
+    "pos": "noun",
+    "def": "cave"
+  },
+  {
+    "word": "tokatl",
+    "pos": "noun",
+    "def": "spider."
+  },
+  {
+    "word": "tlatzactli",
+    "pos": "noun",
+    "def": "jail."
+  },
+  {
+    "word": "tlacualistli",
+    "pos": "noun",
+    "def": "alternative spelling of tlacualiztli (“food”)"
+  },
+  {
+    "word": "chapuli",
+    "pos": "noun",
+    "def": "alternative spelling of chapoli, grasshopper"
+  },
+  {
+    "word": "tlamantli",
+    "pos": "noun",
+    "def": "thing."
+  },
+  {
+    "word": "tlapohualistli",
+    "pos": "noun",
+    "def": "alternative spelling of tlapohualiztli (“lesson”)"
+  },
+  {
+    "word": "tlamachtihquetl",
+    "pos": "noun",
+    "def": "teacher."
+  },
+  {
+    "word": "sintli",
+    "pos": "noun",
+    "def": "alternative spelling of cintli (“corn”)"
+  },
+  {
+    "word": "cuaxilotl",
+    "pos": "noun",
+    "def": "obsolete spelling of kuaxilotl"
+  },
+  {
+    "word": "cuapelechi",
+    "pos": "noun",
+    "def": "obsolete spelling of kuapelechin"
+  },
+  {
+    "word": "cahuayo",
+    "pos": "noun",
+    "def": "obsolete spelling of kawayo"
+  },
+  {
+    "word": "cuaxilocuahuitl",
+    "pos": "noun",
+    "def": "banana tree"
+  },
+  {
+    "word": "cuatlahcayotl",
+    "pos": "noun",
+    "def": "fruit."
+  },
+  {
+    "word": "cuatochi",
+    "pos": "noun",
+    "def": "obsolete spelling of kuatochin"
+  },
+  {
+    "word": "altepetlehquetl",
+    "pos": "noun",
+    "def": "the inhabitant of an altepetl, town."
+  },
+  {
+    "word": "camanali",
+    "pos": "noun",
+    "def": "alternative spelling of camanalli (“word”)"
+  },
+  {
+    "word": "camanaltiquetl",
+    "pos": "noun",
+    "def": "obsolete spelling of kamanaltiketl"
+  },
+  {
+    "word": "camanalohquetl",
+    "pos": "noun",
+    "def": "speaker."
+  },
+  {
+    "word": "caltlacatl",
+    "pos": "noun",
+    "def": "person."
+  },
+  {
+    "word": "cayochi",
+    "pos": "noun",
+    "def": "fox."
+  },
+  {
+    "word": "caxtiltecacamanali",
+    "pos": "noun",
+    "def": "alternative spelling of caxtiltecacamanalli"
+  },
+  {
+    "word": "-quetl",
+    "pos": "suffix",
+    "def": "suffix that gives a noun an actor."
+  },
+  {
+    "word": "cueyitl",
+    "pos": "noun",
+    "def": "skirt."
+  },
+  {
+    "word": "cintli",
+    "pos": "noun",
+    "def": "corncob"
+  },
+  {
+    "word": "tlapohualiztli",
+    "pos": "noun",
+    "def": "lesson."
+  },
+  {
+    "word": "tlacualiztli",
+    "pos": "noun",
+    "def": "food."
+  },
+  {
+    "word": "totoli",
+    "pos": "noun",
+    "def": "turkey"
+  },
+  {
+    "word": "tianquiz",
+    "pos": "noun",
+    "def": "market, plaza."
+  },
+  {
+    "word": "tiopa",
+    "pos": "noun",
+    "def": "church"
+  },
+  {
+    "word": "tecsistli",
+    "pos": "noun",
+    "def": "alternative spelling of tecciztli (“egg”)"
+  },
+  {
+    "word": "tepozcahuayo",
+    "pos": "noun",
+    "def": "bus."
+  },
+  {
+    "word": "zayoltzi",
+    "pos": "noun",
+    "def": "bee"
+  },
+  {
+    "word": "zacacalli",
+    "pos": "noun",
+    "def": "hay storehouse"
+  },
+  {
+    "word": "cihuamizto",
+    "pos": "noun",
+    "def": "cat"
+  },
+  {
+    "word": "nectli",
+    "pos": "noun",
+    "def": "honey."
+  },
+  {
+    "word": "zayolnectli",
+    "pos": "noun",
+    "def": "honey from a bee."
+  },
+  {
+    "word": "cihuapil",
+    "pos": "noun",
+    "def": "obsolete spelling of siwapil"
+  },
+  {
+    "word": "zacamiztli",
+    "pos": "noun",
+    "def": "wildcat"
+  },
+  {
+    "word": "ciltomatl",
+    "pos": "noun",
+    "def": "tomatillo"
+  },
+  {
+    "word": "tequitl",
+    "pos": "noun",
+    "def": "work."
+  },
+  {
+    "word": "tepoztototl",
+    "pos": "noun",
+    "def": "airplane"
+  },
+  {
+    "word": "texinquetl",
+    "pos": "noun",
+    "def": "hairdresser."
+  },
+  {
+    "word": "totahtzi",
+    "pos": "noun",
+    "def": "priest."
+  },
+  {
+    "word": "tahtzi",
+    "pos": "noun",
+    "def": "father, priest."
+  },
+  {
+    "word": "tlaahuili",
+    "pos": "noun",
+    "def": "alternative spelling of tlahuilli (“tree”)"
+  },
+  {
+    "word": "tlahuelatl",
+    "pos": "noun",
+    "def": "flood."
+  },
+  {
+    "word": "tlachtehquetl",
+    "pos": "noun",
+    "def": "thief."
+  },
+  {
+    "word": "camanalli",
+    "pos": "noun",
+    "def": "word."
+  },
+  {
+    "word": "caxtiltecacamanalli",
+    "pos": "noun",
+    "def": "the Spanish language."
+  },
+  {
+    "word": "tlalchi",
+    "pos": "noun",
+    "def": "ground."
+  },
+  {
+    "word": "tlanahuatihquetl",
+    "pos": "noun",
+    "def": "king."
+  },
+  {
+    "word": "tlaneltilihquetl",
+    "pos": "noun",
+    "def": "witness."
+  },
+  {
+    "word": "huicatl",
+    "pos": "noun",
+    "def": "song."
+  },
+  {
+    "word": "ahacatl",
+    "pos": "noun",
+    "def": "wind."
+  },
+  {
+    "word": "ahahuilli",
+    "pos": "noun",
+    "def": "obsolete spelling of ahawilli"
+  },
+  {
+    "word": "caltlacame",
+    "pos": "noun",
+    "def": "alternative spelling of caltlacameh"
+  },
+  {
+    "word": "cocoxquetl",
+    "pos": "noun",
+    "def": "obsolete spelling of kokoxketl"
+  },
+  {
+    "word": "camanalistli",
+    "pos": "noun",
+    "def": "alternative spelling of camanaliztli (“story”)"
+  },
+  {
+    "word": "xopili",
+    "pos": "noun",
+    "def": "cockroach."
+  },
+  {
+    "word": "yacatzompilli",
+    "pos": "noun",
+    "def": "a cold (sickness)."
+  },
+  {
+    "word": "yacametl",
+    "pos": "noun",
+    "def": "insect."
+  },
+  {
+    "word": "mihquetl",
+    "pos": "noun",
+    "def": "deadman."
+  },
+  {
+    "word": "miquilistli",
+    "pos": "noun",
+    "def": "alternative spelling of miquiliztli (“death”)"
+  },
+  {
+    "word": "tlayohua",
+    "pos": "noun",
+    "def": "night."
+  },
+  {
+    "word": "tlayohuilotl",
+    "pos": "noun",
+    "def": "night"
+  },
+  {
+    "word": "tepozcamanalli",
+    "pos": "noun",
+    "def": "radio."
+  },
+  {
+    "word": "cuacamohtli",
+    "pos": "noun",
+    "def": "yuca."
+  },
+  {
+    "word": "xochili",
+    "pos": "noun",
+    "def": "alternative spelling of xochilli (“jalapeño”)"
+  },
+  {
+    "word": "cilchilli",
+    "pos": "noun",
+    "def": "pequin pepper."
+  },
+  {
+    "word": "xochilli",
+    "pos": "noun",
+    "def": "jalapeño pepper."
+  },
+  {
+    "word": "tzopelictli",
+    "pos": "noun",
+    "def": "sugar."
+  },
+  {
+    "word": "mangocuahuitl",
+    "pos": "noun",
+    "def": "mango tree."
+  },
+  {
+    "word": "tlapitzquetl",
+    "pos": "noun",
+    "def": "arbiter, arbitrator."
+  },
+  {
+    "word": "tlapiyali",
+    "pos": "noun",
+    "def": "animal."
+  },
+  {
+    "word": "ohuaatl",
+    "pos": "noun",
+    "def": "sugarcane juice"
+  },
+  {
+    "word": "tequitiquetl",
+    "pos": "noun",
+    "def": "authority."
+  },
+  {
+    "word": "tecomahtli",
+    "pos": "noun",
+    "def": "squirrel."
+  },
+  {
+    "word": "huica",
+    "pos": "verb",
+    "def": "to sing."
+  },
+  {
+    "word": "nehnemi",
+    "pos": "verb",
+    "def": "to walk."
+  },
+  {
+    "word": "tlacua",
+    "pos": "verb",
+    "def": "to eat."
+  },
+  {
+    "word": "tlahcuilohua",
+    "pos": "verb",
+    "def": "to write."
+  },
+  {
+    "word": "atli",
+    "pos": "verb",
+    "def": "to drink water."
+  },
+  {
+    "word": "iyatl",
+    "pos": "noun",
+    "def": "tobacco"
+  },
+  {
+    "word": "mitoniya",
+    "pos": "verb",
+    "def": "to sweat."
+  },
+  {
+    "word": "imohuanti",
+    "pos": "pron",
+    "def": "second person; you (plural)"
+  },
+  {
+    "word": "tohuanti",
+    "pos": "pron",
+    "def": "first person; we"
+  },
+  {
+    "word": "yahaya",
+    "pos": "pron",
+    "def": "third person; he, she"
+  },
+  {
+    "word": "yahuanti",
+    "pos": "pron",
+    "def": "third person; they"
+  },
+  {
+    "word": "ininhuanti",
+    "pos": "pron",
+    "def": "third person; they"
+  },
+  {
+    "word": "amohuanti",
+    "pos": "pron",
+    "def": "second person; you (plural)"
+  },
+  {
+    "word": "chicahualiztli",
+    "pos": "noun",
+    "def": "strength."
+  },
+  {
+    "word": "chilcaxitl",
+    "pos": "noun",
+    "def": "Molcajete, a traditional Mexican stone tool, equivalent in function to a mortar and pestle, used for grinding food."
+  },
+  {
+    "word": "cecuiliztli",
+    "pos": "noun",
+    "def": "the cold."
+  },
+  {
+    "word": "cimolotl",
+    "pos": "noun",
+    "def": "cob(corn)."
+  },
+  {
+    "word": "cinolotl",
+    "pos": "noun",
+    "def": "cob(corn)."
+  },
+  {
+    "word": "cincuahuitl",
+    "pos": "noun",
+    "def": "cuttings."
+  },
+  {
+    "word": "tatahtzi",
+    "pos": "noun",
+    "def": "father, priest."
+  },
+  {
+    "word": "teccizcacahuatl",
+    "pos": "noun",
+    "def": "shell."
+  },
+  {
+    "word": "cocotl",
+    "pos": "noun",
+    "def": "wound, sore"
+  },
+  {
+    "word": "hueyitata",
+    "pos": "noun",
+    "def": "grandfather."
+  },
+  {
+    "word": "hueyinana",
+    "pos": "noun",
+    "def": "grandmother."
+  },
+  {
+    "word": "huampo",
+    "pos": "noun",
+    "def": "friend."
+  },
+  {
+    "word": "ixhui",
+    "pos": "noun",
+    "def": "grandson."
+  },
+  {
+    "word": "cuitlapil",
+    "pos": "noun",
+    "def": "tail, rear."
+  },
+  {
+    "word": "ixtiyol",
+    "pos": "noun",
+    "def": "eye."
+  },
+  {
+    "word": "ixteyol",
+    "pos": "noun",
+    "def": "eye."
+  },
+  {
+    "word": "macpil",
+    "pos": "noun",
+    "def": "finger."
+  },
+  {
+    "word": "mayitl",
+    "pos": "noun",
+    "def": "hand."
+  },
+  {
+    "word": "michtlacualli",
+    "pos": "noun",
+    "def": "fish (food)."
+  },
+  {
+    "word": "lalaxcuahuitl",
+    "pos": "noun",
+    "def": "orange tree"
+  },
+  {
+    "word": "mihcatzi",
+    "pos": "noun",
+    "def": "deadman."
+  },
+  {
+    "word": "cuaxilomiltitla",
+    "pos": "noun",
+    "def": "banana plantation."
+  },
+  {
+    "word": "cuecuetzi",
+    "pos": "adj",
+    "def": "tiny."
+  },
+  {
+    "word": "huehuentzi",
+    "pos": "adj",
+    "def": "old."
+  },
+  {
+    "word": "huehueyac",
+    "pos": "adj",
+    "def": "long."
+  },
+  {
+    "word": "huehcapantic",
+    "pos": "adj",
+    "def": "tall."
+  },
+  {
+    "word": "huehcatla",
+    "pos": "adj",
+    "def": "deep."
+  },
+  {
+    "word": "ahuiyac",
+    "pos": "noun",
+    "def": "obsolete spelling of awiyak"
+  },
+  {
+    "word": "cahualtotlayi",
+    "pos": "noun",
+    "def": "widow (male)."
+  },
+  {
+    "word": "cahualtoahui",
+    "pos": "noun",
+    "def": "widow (female)."
+  },
+  {
+    "word": "estli",
+    "pos": "noun",
+    "def": "alternative spelling of eztli (“blood”)"
+  },
+  {
+    "word": "huampoyohua",
+    "pos": "noun",
+    "def": "plural of huampo"
+  },
+  {
+    "word": "iconehua",
+    "pos": "noun",
+    "def": "plural of icone"
+  },
+  {
+    "word": "xopepe",
+    "pos": "noun",
+    "def": "cockroach."
+  },
+  {
+    "word": "tzopelatl",
+    "pos": "noun",
+    "def": "soda (drink)."
+  },
+  {
+    "word": "tixtli",
+    "pos": "noun",
+    "def": "dough (food)."
+  },
+  {
+    "word": "totonic",
+    "pos": "adj",
+    "def": "hot."
+  },
+  {
+    "word": "tlachiacayotl",
+    "pos": "noun",
+    "def": "butter."
+  },
+  {
+    "word": "tlahtolcamanalli",
+    "pos": "noun",
+    "def": "story."
+  },
+  {
+    "word": "tlamaya",
+    "pos": "noun",
+    "def": "a plain, flat land."
+  },
+  {
+    "word": "tlanehtli",
+    "pos": "noun",
+    "def": "laborer, worker."
+  },
+  {
+    "word": "tlanaquiliztli",
+    "pos": "noun",
+    "def": "answer, response."
+  },
+  {
+    "word": "tlapehquetl",
+    "pos": "noun",
+    "def": "hunter."
+  },
+  {
+    "word": "tlapechtli",
+    "pos": "noun",
+    "def": "bed."
+  },
+  {
+    "word": "tlaquetztli",
+    "pos": "noun",
+    "def": "a trap."
+  },
+  {
+    "word": "tlacehuiliztli",
+    "pos": "noun",
+    "def": "peace."
+  },
+  {
+    "word": "tlatehquetl",
+    "pos": "noun",
+    "def": "cutter."
+  },
+  {
+    "word": "tzitzitl",
+    "pos": "noun",
+    "def": "ant."
+  },
+  {
+    "word": "tleno",
+    "pos": "noun",
+    "def": "nothing."
+  },
+  {
+    "word": "tlaxahualiztli",
+    "pos": "noun",
+    "def": "excavation."
+  },
+  {
+    "word": "tlaxahua",
+    "pos": "verb",
+    "def": "to dig."
+  },
+  {
+    "word": "tlamocuitlahuihquetl",
+    "pos": "noun",
+    "def": "shepherd."
+  },
+  {
+    "word": "axcahua",
+    "pos": "noun",
+    "def": "sheep."
+  },
+  {
+    "word": "itztoc",
+    "pos": "verb",
+    "def": "to be."
+  },
+  {
+    "word": "tlancoch",
+    "pos": "noun",
+    "def": "teeth."
+  },
+  {
+    "word": "eltlapal",
+    "pos": "noun",
+    "def": "wing."
+  },
+  {
+    "word": "cuacarro",
+    "pos": "noun",
+    "def": "car."
+  },
+  {
+    "word": "miyac",
+    "pos": "det",
+    "def": "many."
+  },
+  {
+    "word": "tlitl",
+    "pos": "noun",
+    "def": "fire."
+  },
+  {
+    "word": "tequicalli",
+    "pos": "noun",
+    "def": "palace."
+  },
+  {
+    "word": "ehquetl",
+    "pos": "noun",
+    "def": "being."
+  },
+  {
+    "word": "elhuicac",
+    "pos": "noun",
+    "def": "heaven."
+  },
+  {
+    "word": "elhuicac ehquetl",
+    "pos": "noun",
+    "def": "An angel."
+  },
+  {
+    "word": "huactoc",
+    "pos": "adj",
+    "def": "dry."
+  },
+  {
+    "word": "calaqui",
+    "pos": "verb",
+    "def": "to enter."
+  },
+  {
+    "word": "tiopamitl",
+    "pos": "noun",
+    "def": "temple"
+  },
+  {
+    "word": "ceyoc",
+    "pos": "det",
+    "def": "other."
+  },
+  {
+    "word": "tlapahuaxtli",
+    "pos": "adj",
+    "def": "cooked."
+  },
+  {
+    "word": "cequinoc",
+    "pos": "det",
+    "def": "plural of ceyoc"
+  },
+  {
+    "word": "oquichpil",
+    "pos": "noun",
+    "def": "boy."
+  },
+  {
+    "word": "paxalohquetl",
+    "pos": "noun",
+    "def": "visitor."
+  },
+  {
+    "word": "ocuili",
+    "pos": "noun",
+    "def": "worm, grub."
+  },
+  {
+    "word": "icnotzi",
+    "pos": "noun",
+    "def": "orphan."
+  },
+  {
+    "word": "cholohua",
+    "pos": "verb",
+    "def": "to flee."
+  },
+  {
+    "word": "costlaquemitl",
+    "pos": "noun",
+    "def": "alternative spelling of coztlaquemitl (“pancho”)"
+  },
+  {
+    "word": "camanalohua",
+    "pos": "verb",
+    "def": "to speak."
+  },
+  {
+    "word": "camati",
+    "pos": "verb",
+    "def": "to speak."
+  },
+  {
+    "word": "topitzi",
+    "pos": "noun",
+    "def": "lizard."
+  },
+  {
+    "word": "ihnalpa",
+    "pos": "noun",
+    "def": "morning."
+  },
+  {
+    "word": "mapachi",
+    "pos": "noun",
+    "def": "raccoon"
+  },
+  {
+    "word": "metatl",
+    "pos": "noun",
+    "def": "metate, grinding stone."
+  },
+  {
+    "word": "tepahtihquetl",
+    "pos": "noun",
+    "def": "doctor."
+  },
+  {
+    "word": "tiochicahualnextili",
+    "pos": "noun",
+    "def": "miracle."
+  },
+  {
+    "word": "iztlacati",
+    "pos": "verb",
+    "def": "to lie."
+  },
+  {
+    "word": "zozoltic",
+    "pos": "adj",
+    "def": "old (thing)."
+  },
+  {
+    "word": "cuatitlamitl",
+    "pos": "noun",
+    "def": "forest."
+  },
+  {
+    "word": "cuatitlanehquetl",
+    "pos": "noun",
+    "def": "mountain inhabitant."
+  },
+  {
+    "word": "tonaya",
+    "pos": "noun",
+    "def": "day, daytime"
+  },
+  {
+    "word": "tzintlayohuilotl",
+    "pos": "noun",
+    "def": "darkness."
+  },
+  {
+    "word": "elhuicactli",
+    "pos": "noun",
+    "def": "the sky."
+  },
+  {
+    "word": "tiotlac",
+    "pos": "noun",
+    "def": "evening"
+  },
+  {
+    "word": "ihnaloc",
+    "pos": "noun",
+    "def": "morning"
+  },
+  {
+    "word": "eltoya",
+    "pos": "adv",
+    "def": "very"
+  },
+  {
+    "word": "tlachiyaliz",
+    "pos": "noun",
+    "def": "likeness"
+  },
+  {
+    "word": "tlaltepactli",
+    "pos": "noun",
+    "def": "ground, earth"
+  },
+  {
+    "word": "xochimilli",
+    "pos": "noun",
+    "def": "garden"
+  },
+  {
+    "word": "icni",
+    "pos": "noun",
+    "def": "brother"
+  },
+  {
+    "word": "tlatequipanohca",
+    "pos": "noun",
+    "def": "slave"
+  },
+  {
+    "word": "huehcapan",
+    "pos": "noun",
+    "def": "lineage, ancestry"
+  },
+  {
+    "word": "piya",
+    "pos": "verb",
+    "def": "to have."
+  },
+  {
+    "word": "ahsi",
+    "pos": "verb",
+    "def": "to arrive."
+  },
+  {
+    "word": "achtihuiehquetl",
+    "pos": "noun",
+    "def": "The oldest son or daughter."
+  },
+  {
+    "word": "amantzi",
+    "pos": "adv",
+    "def": "right now"
+  },
+  {
+    "word": "amacamanalli",
+    "pos": "noun",
+    "def": "map."
+  },
+  {
+    "word": "tlanahuatía",
+    "pos": "noun",
+    "def": "kingdom."
+  },
+  {
+    "word": "ax quema",
+    "pos": "adv",
+    "def": "never"
+  },
+  {
+    "word": "axtle",
+    "pos": "particle",
+    "def": "no, negative response."
+  },
+  {
+    "word": "conepiya",
+    "pos": "verb",
+    "def": "to have a child."
+  },
+  {
+    "word": "canque",
+    "pos": "adv",
+    "def": "where"
+  },
+  {
+    "word": "tecactli",
+    "pos": "noun",
+    "def": "a sandal, huarache."
+  },
+  {
+    "word": "tlaquetzali",
+    "pos": "noun",
+    "def": "pitchfork."
+  },
+  {
+    "word": "axcaneli",
+    "pos": "noun",
+    "def": "ant."
+  },
+  {
+    "word": "tlatoniya",
+    "pos": "verb",
+    "def": "to be hot."
+  },
+  {
+    "word": "tonalti",
+    "pos": "intj",
+    "def": "good morning (greeting)."
+  },
+  {
+    "word": "tiotlaquilti",
+    "pos": "intj",
+    "def": "good afternoon (greeting)."
+  },
+  {
+    "word": "tlapoyahualti",
+    "pos": "intj",
+    "def": "good night (greeting)."
+  },
+  {
+    "word": "chipahuac",
+    "pos": "adj",
+    "def": "white."
+  },
+  {
+    "word": "azoltic",
+    "pos": "adj",
+    "def": "blue."
+  },
+  {
+    "word": "tlaquemitl",
+    "pos": "noun",
+    "def": "blanket"
+  },
+  {
+    "word": "tzalantic",
+    "pos": "adj",
+    "def": "clear."
+  },
+  {
+    "word": "tepamitl",
+    "pos": "noun",
+    "def": "wall"
+  },
+  {
+    "word": "tlalochtli",
+    "pos": "noun",
+    "def": "moment."
+  },
+  {
+    "word": "ahqui",
+    "pos": "verb",
+    "def": "to swim."
+  },
+  {
+    "word": "cahuatlehco",
+    "pos": "verb",
+    "def": "to ride a horse."
+  },
+  {
+    "word": "ax aqui",
+    "pos": "pron",
+    "def": "nobody"
+  },
+  {
+    "word": "tecotli",
+    "pos": "noun",
+    "def": "master, lord."
+  },
+  {
+    "word": "quentzi",
+    "pos": "adv",
+    "def": "little, not much."
+  },
+  {
+    "word": "para tlen",
+    "pos": "adv",
+    "def": "why?"
+  },
+  {
+    "word": "camanaliztli",
+    "pos": "noun",
+    "def": "story."
+  },
+  {
+    "word": "tlatehuihcayotl",
+    "pos": "noun",
+    "def": "war"
+  },
+  {
+    "word": "intla",
+    "pos": "conj",
+    "def": "if"
+  },
+  {
+    "word": "itelpoca",
+    "pos": "noun",
+    "def": "third-person singular possessed form of telpocatl (his/her/its young man)."
+  },
+  {
+    "word": "pilconetzi",
+    "pos": "noun",
+    "def": "child"
+  },
+  {
+    "word": "huelti",
+    "pos": "noun",
+    "def": "sister"
+  },
+  {
+    "word": "achtohui",
+    "pos": "adj",
+    "def": "first."
+  },
+  {
+    "word": "tlatzintla",
+    "pos": "prep",
+    "def": "under, below"
+  },
+  {
+    "word": "huehcapa",
+    "pos": "prep",
+    "def": "above"
+  },
+  {
+    "word": "ipohual",
+    "pos": "noun",
+    "def": "season"
+  },
+  {
+    "word": "iyol",
+    "pos": "noun",
+    "def": "seed."
+  },
+  {
+    "word": "tlamantli xihuitl",
+    "pos": "noun",
+    "def": "grass"
+  },
+  {
+    "word": "queha",
+    "pos": "adv",
+    "def": "how."
+  },
+  {
+    "word": "queha ni",
+    "pos": "adv",
+    "def": "like this."
+  },
+  {
+    "word": "queha nopa",
+    "pos": "adv",
+    "def": "like that."
+  },
+  {
+    "word": "quehatza",
+    "pos": "adv",
+    "def": "how."
+  },
+  {
+    "word": "ax cualli",
+    "pos": "adj",
+    "def": "bad."
+  },
+  {
+    "word": "nopa",
+    "pos": "det",
+    "def": "that."
+  },
+  {
+    "word": "pantzi",
+    "pos": "noun",
+    "def": "bread."
+  },
+  {
+    "word": "poyox",
+    "pos": "noun",
+    "def": "rooster."
+  },
+  {
+    "word": "icelti",
+    "pos": "adj",
+    "def": "alone."
+  },
+  {
+    "word": "acahya",
+    "pos": "noun",
+    "def": "companion."
+  },
+  {
+    "word": "elchiqui",
+    "pos": "noun",
+    "def": "rib (anatomy)."
+  },
+  {
+    "word": "ixmatzahtic",
+    "pos": "adj",
+    "def": "pink."
+  },
+  {
+    "word": "ixcafentic",
+    "pos": "adj",
+    "def": "coffee color, brown."
+  },
+  {
+    "word": "itlapanca",
+    "pos": "noun",
+    "def": "interest."
+  },
+  {
+    "word": "iyaquemetl",
+    "pos": "noun",
+    "def": "insect."
+  },
+  {
+    "word": "iyalmilli",
+    "pos": "noun",
+    "def": "tobacco farm."
+  },
+  {
+    "word": "ihquino",
+    "pos": "adv",
+    "def": "thus."
+  },
+  {
+    "word": "huihuitic",
+    "pos": "adj",
+    "def": "silly."
+  },
+  {
+    "word": "huihuiciquitic",
+    "pos": "adj",
+    "def": "thin."
+  },
+  {
+    "word": "huetztoc",
+    "pos": "adj",
+    "def": "fallen."
+  },
+  {
+    "word": "huehca",
+    "pos": "adv",
+    "def": "far away, distant."
+  },
+  {
+    "word": "huapalli",
+    "pos": "noun",
+    "def": "board, plank."
+  },
+  {
+    "word": "huehuecafentzontli",
+    "pos": "noun",
+    "def": "an old coffee tree."
+  },
+  {
+    "word": "huacaxcuitlatl",
+    "pos": "noun",
+    "def": "cow manure."
+  },
+  {
+    "word": "etzontli",
+    "pos": "noun",
+    "def": "a bean bush."
+  },
+  {
+    "word": "huactlatlaxixtli",
+    "pos": "noun",
+    "def": "tuberculosis."
+  },
+  {
+    "word": "eyoli",
+    "pos": "noun",
+    "def": "bean seed."
+  },
+  {
+    "word": "exinachtli",
+    "pos": "noun",
+    "def": "bean seed."
+  },
+  {
+    "word": "etamalli",
+    "pos": "noun",
+    "def": "bean tamale."
+  },
+  {
+    "word": "apipiyalotl",
+    "pos": "noun",
+    "def": "dragonfly"
+  },
+  {
+    "word": "tlilelemectli",
+    "pos": "noun",
+    "def": "flame."
+  },
+  {
+    "word": "xihuitzontli",
+    "pos": "noun",
+    "def": "bush."
+  },
+  {
+    "word": "huahca",
+    "pos": "conj",
+    "def": "then; at that time; next."
+  },
+  {
+    "word": "tlatzehtzeloltic",
+    "pos": "adj",
+    "def": "holy."
+  },
+  {
+    "word": "nohquiya",
+    "pos": "adv",
+    "def": "moreover, furthermore."
+  },
+  {
+    "word": "ahqueya",
+    "pos": "adv",
+    "def": "who?"
+  },
+  {
+    "word": "tlanextilihcayotl",
+    "pos": "noun",
+    "def": "sign, wonder, miracle."
+  },
+  {
+    "word": "tlaihiyohuiliztli",
+    "pos": "noun",
+    "def": "affliction."
+  },
+  {
+    "word": "cuatopilli",
+    "pos": "noun",
+    "def": "rod."
+  },
+  {
+    "word": "yolixco",
+    "pos": "noun",
+    "def": "cloak."
+  },
+  {
+    "word": "citlal cetl",
+    "pos": "noun",
+    "def": "snow."
+  },
+  {
+    "word": "tlahtolcuatacani",
+    "pos": "noun",
+    "def": "a well-spoken person"
+  },
+  {
+    "word": "espoltic",
+    "pos": "adj",
+    "def": "bloody."
+  },
+  {
+    "word": "quezqui",
+    "pos": "adv",
+    "def": "how much?"
+  },
+  {
+    "word": "tlazcamati",
+    "pos": "intj",
+    "def": "thanks."
+  },
+  {
+    "word": "cualtitoc",
+    "pos": "intj",
+    "def": "fine, ok."
+  },
+  {
+    "word": "huino",
+    "pos": "noun",
+    "def": "alcohol."
+  },
+  {
+    "word": "patiyo",
+    "pos": "adj",
+    "def": "expensive."
+  },
+  {
+    "word": "ohui",
+    "pos": "adj",
+    "def": "hard, difficult."
+  },
+  {
+    "word": "tzonacahuili",
+    "pos": "noun",
+    "def": "hat, sombrero."
+  },
+  {
+    "word": "tlahuel",
+    "pos": "adv",
+    "def": "very"
+  },
+  {
+    "word": "otonlalax",
+    "pos": "noun",
+    "def": "mandarin orange."
+  },
+  {
+    "word": "iyolic",
+    "pos": "adj",
+    "def": "slow"
+  },
+  {
+    "word": "chicahuac",
+    "pos": "adj",
+    "def": "strong."
+  },
+  {
+    "word": "isocapa",
+    "pos": "adj",
+    "def": "fast."
+  },
+  {
+    "word": "ax tleno",
+    "pos": "intj",
+    "def": "you're welcome."
+  },
+  {
+    "word": "yehyectzi",
+    "pos": "adj",
+    "def": "beautiful."
+  },
+  {
+    "word": "miac",
+    "pos": "adv",
+    "def": "a lot."
+  },
+  {
+    "word": "pastiya",
+    "pos": "noun",
+    "def": "pill."
+  },
+  {
+    "word": "tetequipanohquetl",
+    "pos": "noun",
+    "def": "servant."
+  },
+  {
+    "word": "yalhuaya",
+    "pos": "adv",
+    "def": "yesterday."
+  },
+  {
+    "word": "cualca",
+    "pos": "adv",
+    "def": "early."
+  },
+  {
+    "word": "nechca",
+    "pos": "adv",
+    "def": "close to."
+  },
+  {
+    "word": "nicani",
+    "pos": "adv",
+    "def": "here"
+  },
+  {
+    "word": "nelía",
+    "pos": "adv",
+    "def": "truly."
+  },
+  {
+    "word": "otoncamanalli",
+    "pos": "noun",
+    "def": "the Otomi language."
+  },
+  {
+    "word": "ohyoli",
+    "pos": "noun",
+    "def": "jug."
+  },
+  {
+    "word": "comitl",
+    "pos": "noun",
+    "def": "pot, pan."
+  },
+  {
+    "word": "tizquetl",
+    "pos": "noun",
+    "def": "a miller, grinder."
+  },
+  {
+    "word": "chicnahui",
+    "pos": "num",
+    "def": "nine."
+  },
+  {
+    "word": "chipohtli",
+    "pos": "noun",
+    "def": "tick"
+  },
+  {
+    "word": "pesohtli",
+    "pos": "noun",
+    "def": "alternative spelling of pezohtli"
+  },
+  {
+    "word": "chapoli",
+    "pos": "noun",
+    "def": "grasshopper"
+  },
+  {
+    "word": "-tl",
+    "pos": "suffix",
+    "def": "a suffix that makes nouns."
+  },
+  {
+    "word": "-tli",
+    "pos": "suffix",
+    "def": "a suffix that makes nouns."
+  },
+  {
+    "word": "-lli",
+    "pos": "suffix",
+    "def": "a suffix that makes a noun."
+  },
+  {
+    "word": "tepahtía",
+    "pos": "verb",
+    "def": "to cure."
+  },
+  {
+    "word": "tlamachtía",
+    "pos": "verb",
+    "def": "to teach."
+  },
+  {
+    "word": "-tzi",
+    "pos": "suffix",
+    "def": "A diminutive-forming suffix."
+  },
+  {
+    "word": "tocontzi",
+    "pos": "noun",
+    "def": "squirrel."
+  },
+  {
+    "word": "quehatza tiitztoc",
+    "pos": "intj",
+    "def": "how are you?"
+  },
+  {
+    "word": "mococohua",
+    "pos": "verb",
+    "def": "to be sick."
+  },
+  {
+    "word": "eltoc",
+    "pos": "verb",
+    "def": "to be."
+  },
+  {
+    "word": "nopano",
+    "pos": "adv",
+    "def": "there"
+  },
+  {
+    "word": "iichpoca",
+    "pos": "noun",
+    "def": "third-person singular possessed form of ichpocatl (his/her/its young woman)."
+  },
+  {
+    "word": "iicni",
+    "pos": "noun",
+    "def": "his, her, its brother."
+  },
+  {
+    "word": "inana",
+    "pos": "noun",
+    "def": "his, her, its mother."
+  },
+  {
+    "word": "itata",
+    "pos": "noun",
+    "def": "his, her, its father."
+  },
+  {
+    "word": "iixtiyol",
+    "pos": "noun",
+    "def": "his, her, its eye."
+  },
+  {
+    "word": "iaxca",
+    "pos": "pron",
+    "def": "of him, her, it."
+  },
+  {
+    "word": "quehatza tiya",
+    "pos": "intj",
+    "def": "how's it going?"
+  },
+  {
+    "word": "nehnemiliztli",
+    "pos": "noun",
+    "def": "way of life; a lifestyle."
+  },
+  {
+    "word": "iahui",
+    "pos": "noun",
+    "def": "his, her, its aunt."
+  },
+  {
+    "word": "iahcol",
+    "pos": "noun",
+    "def": "his, her, its shoulder."
+  },
+  {
+    "word": "inenepil",
+    "pos": "noun",
+    "def": "his, her, its tongue."
+  },
+  {
+    "word": "tlamamalli",
+    "pos": "noun",
+    "def": "load, cargo."
+  },
+  {
+    "word": "coxtalli",
+    "pos": "noun",
+    "def": "a sack."
+  },
+  {
+    "word": "tlayehyecoli",
+    "pos": "noun",
+    "def": "a measure."
+  },
+  {
+    "word": "nohquía",
+    "pos": "adv",
+    "def": "also, as well."
+  },
+  {
+    "word": "pitzo",
+    "pos": "noun",
+    "def": "pig."
+  },
+  {
+    "word": "caltlacameh",
+    "pos": "noun",
+    "def": "plural of caltlacatl"
+  },
+  {
+    "word": "yahua",
+    "pos": "verb",
+    "def": "to go."
+  },
+  {
+    "word": "patlahuac",
+    "pos": "adj",
+    "def": "wide, ample."
+  },
+  {
+    "word": "miltitla",
+    "pos": "noun",
+    "def": "garden."
+  },
+  {
+    "word": "yolic yolic",
+    "pos": "adv",
+    "def": "little by little"
+  },
+  {
+    "word": "yolpactoc",
+    "pos": "adj",
+    "def": "happy"
+  },
+  {
+    "word": "cualantoc",
+    "pos": "adj",
+    "def": "angry"
+  },
+  {
+    "word": "chichiltic",
+    "pos": "adj",
+    "def": "obsolete spelling of chichiltik"
+  },
+  {
+    "word": "yayahuic",
+    "pos": "adj",
+    "def": "black"
+  },
+  {
+    "word": "xoxohuic",
+    "pos": "adj",
+    "def": "green"
+  },
+  {
+    "word": "coztic",
+    "pos": "adj",
+    "def": "obsolete spelling of kostik"
+  },
+  {
+    "word": "chilcoz",
+    "pos": "adj",
+    "def": "orange"
+  },
+  {
+    "word": "ihuaya",
+    "pos": "pron",
+    "def": "with him, her, it."
+  },
+  {
+    "word": "imachcone",
+    "pos": "noun",
+    "def": "nephew, niece"
+  },
+  {
+    "word": "tepozmecatl",
+    "pos": "noun",
+    "def": "wire, chain."
+  },
+  {
+    "word": "Mexco",
+    "pos": "name",
+    "def": "Mexico."
+  },
+  {
+    "word": "cenquiztoc",
+    "pos": "adj",
+    "def": "pure."
+  },
+  {
+    "word": "tlenihqui",
+    "pos": "noun",
+    "def": "deal"
+  },
+  {
+    "word": "tlamayamitl",
+    "pos": "noun",
+    "def": "field, plain."
+  },
+  {
+    "word": "chapopohtli",
+    "pos": "noun",
+    "def": "tar."
+  },
+  {
+    "word": "sehco",
+    "pos": "noun",
+    "def": "people."
+  },
+  {
+    "word": "siwatl",
+    "pos": "noun",
+    "def": "woman"
+  },
+  {
+    "word": "astatl",
+    "pos": "noun",
+    "def": "heron."
+  },
+  {
+    "word": "oselotl",
+    "pos": "noun",
+    "def": "jaguar."
+  },
+  {
+    "word": "coztlaquemitl",
+    "pos": "noun",
+    "def": "poncho"
+  },
+  {
+    "word": "tlahtohua",
+    "pos": "verb",
+    "def": "to speak, talk."
+  },
+  {
+    "word": "noaxca",
+    "pos": "pron",
+    "def": "of me"
+  },
+  {
+    "word": "moaxca",
+    "pos": "pron",
+    "def": "of you"
+  },
+  {
+    "word": "tiocamanalohquetl",
+    "pos": "noun",
+    "def": "prophet."
+  },
+  {
+    "word": "waleyah",
+    "pos": "noun",
+    "def": "watermelon"
+  },
+  {
+    "word": "sokitl",
+    "pos": "noun",
+    "def": "mud"
+  },
+  {
+    "word": "tokomahtli",
+    "pos": "noun",
+    "def": "squirrel"
+  },
+  {
+    "word": "sinkowatl",
+    "pos": "noun",
+    "def": "bull snake"
+  },
+  {
+    "word": "chichiltik",
+    "pos": "adj",
+    "def": "red"
+  },
+  {
+    "word": "kostik",
+    "pos": "adj",
+    "def": "yellow"
+  },
+  {
+    "word": "ilwikatl",
+    "pos": "noun",
+    "def": "sky"
+  },
+  {
+    "word": "ahakatl",
+    "pos": "noun",
+    "def": "wind"
+  },
+  {
+    "word": "awakatl",
+    "pos": "noun",
+    "def": "avocado"
+  },
+  {
+    "word": "kueyitl",
+    "pos": "noun",
+    "def": "skirt"
+  },
+  {
+    "word": "weyiatl",
+    "pos": "noun",
+    "def": "sea"
+  },
+  {
+    "word": "nakatl",
+    "pos": "noun",
+    "def": "meat"
+  },
+  {
+    "word": "aketzpalin",
+    "pos": "noun",
+    "def": "aligator"
+  },
+  {
+    "word": "ostowatl",
+    "pos": "noun",
+    "def": "fox"
+  },
+  {
+    "word": "akachikiwitl",
+    "pos": "noun",
+    "def": "basquet cane"
+  },
+  {
+    "word": "achakalin",
+    "pos": "noun",
+    "def": "shrimp"
+  },
+  {
+    "word": "pemuch",
+    "pos": "noun",
+    "def": "naked coral tree."
+  },
+  {
+    "word": "kawayoh",
+    "pos": "noun",
+    "def": "horse."
+  },
+  {
+    "word": "etixtli",
+    "pos": "noun",
+    "def": "Dough made from ground beans."
+  },
+  {
+    "word": "konetl",
+    "pos": "noun",
+    "def": "son."
+  },
+  {
+    "word": "mexikatl",
+    "pos": "noun",
+    "def": "Mexican, Nahuan people."
+  },
+  {
+    "word": "esxokotl",
+    "pos": "noun",
+    "def": "pomegranate"
+  },
+  {
+    "word": "texokotl",
+    "pos": "noun",
+    "def": "tejocote"
+  },
+  {
+    "word": "Kuextekapan",
+    "pos": "name",
+    "def": "Huasteca"
+  },
+  {
+    "word": "kuitlatl",
+    "pos": "noun",
+    "def": "shit."
+  },
+  {
+    "word": "xaloh",
+    "pos": "noun",
+    "def": "earthenware mug"
+  },
+  {
+    "word": "chichimichin",
+    "pos": "noun",
+    "def": "dolphin"
+  },
+  {
+    "word": "temaxokotl",
+    "pos": "noun",
+    "def": "plump"
+  },
+  {
+    "word": "okichpil",
+    "pos": "noun",
+    "def": "boy"
+  },
+  {
+    "word": "okichtli",
+    "pos": "noun",
+    "def": "male, macho"
+  },
+  {
+    "word": "awiyak",
+    "pos": "adj",
+    "def": "tasty."
+  },
+  {
+    "word": "siwapil",
+    "pos": "noun",
+    "def": "girl."
+  },
+  {
+    "word": "telpokatl",
+    "pos": "noun",
+    "def": "young person, young man."
+  },
+  {
+    "word": "kuatochin",
+    "pos": "noun",
+    "def": "rabbit"
+  },
+  {
+    "word": "kokoxketl",
+    "pos": "noun",
+    "def": "a sick person."
+  },
+  {
+    "word": "komalli",
+    "pos": "noun",
+    "def": "comal (a pan used to grill tortillas)"
+  },
+  {
+    "word": "tlatilantli",
+    "pos": "noun",
+    "def": "state."
+  },
+  {
+    "word": "sitlalli",
+    "pos": "noun",
+    "def": "star"
+  },
+  {
+    "word": "kamanaltiketl",
+    "pos": "noun",
+    "def": "speaker."
+  },
+  {
+    "word": "chilxokotl",
+    "pos": "noun",
+    "def": "strawberry"
+  },
+  {
+    "word": "kahtzotl",
+    "pos": "noun",
+    "def": "jicama"
+  },
+  {
+    "word": "alaxoxtontli",
+    "pos": "noun",
+    "def": "mandarine"
+  },
+  {
+    "word": "apolin",
+    "pos": "noun",
+    "def": "capulin"
+  },
+  {
+    "word": "matzohtli",
+    "pos": "noun",
+    "def": "pineapple"
+  },
+  {
+    "word": "chikotzapotl",
+    "pos": "noun",
+    "def": "sapodilla"
+  },
+  {
+    "word": "kikiyotekomitl",
+    "pos": "noun",
+    "def": "passion fruit"
+  },
+  {
+    "word": "xopan",
+    "pos": "noun",
+    "def": "spring (season)"
+  },
+  {
+    "word": "maneharoa",
+    "pos": "verb",
+    "def": "To drive"
+  },
+  {
+    "word": "firmaroa",
+    "pos": "verb",
+    "def": "to sign"
+  },
+  {
+    "word": "folsah",
+    "pos": "noun",
+    "def": "bag"
+  },
+  {
+    "word": "folzah",
+    "pos": "noun",
+    "def": "bag"
+  },
+  {
+    "word": "axtlen",
+    "pos": "intj",
+    "def": "think nothing of it, you're welcome, don't mention it"
+  },
+  {
+    "word": "tlaxcaloa",
+    "pos": "verb",
+    "def": "to make tortillas"
+  },
+  {
+    "word": "tlaxkaloa",
+    "pos": "verb",
+    "def": "To make tortillas"
+  },
+  {
+    "word": "siwapilmeh",
+    "pos": "noun",
+    "def": "plural of siwapil"
+  },
+  {
+    "word": "cihuapilmeh",
+    "pos": "noun",
+    "def": "plural of cihuapil"
+  },
+  {
+    "word": "okichpilmeh",
+    "pos": "noun",
+    "def": "plural of okichpil"
+  },
+  {
+    "word": "oquichpilmeh",
+    "pos": "noun",
+    "def": "plural of oquichpil"
+  }
+]
